@@ -1,1 +1,1 @@
-An example of how to use the OP SDK to bridge. See [Optimism's tutorials](https://github.com/ethereum-optimism/optimism-tutorial) for more.
+юююAn example of how to use the OP SDK to bridge. See [Optimism's tutorials](https://github.com/ethereum-optimism/optimism-tutorial) for more.
